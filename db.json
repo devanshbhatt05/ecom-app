@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone14",
+      "price": 100000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout."
+    },
+    {
+      "id": 2,
+      "name": "Tv",
+      "price": 450000,
+      "description": " an electronic system of transmitting transient images of fixed or moving objects together with sound over a wire or through space by apparatus that converts light and sound into electrical waves and reconverts them into visible light rays and audible sound."
+    },
+    {
+      "id": 3,
+      "name": "Ipad",
+      "price": 48000,
+      "description": "The iPad is a touchscreen tablet PC made by Apple . The original iPad debuted in 2010. Apple has three iPad product lines: iPad, iPad mini and iPad Pro.."
+    },
+    {
+      "id": 4,
+      "name": "Bedsheets",
+      "price": 1800,
+      "description": "To cover your mattress."
+    },
+    {
+      "id": 5,
+      "name": "Dish washer",
+      "price": 48000,
+      "description": "The Dishwasher ensures that the kitchen stays clean and organized. They set up dish stations and turn on dish cleaning machines."
+    },
+    {
+      "name": "Liquid hand wash ",
+      "price": "400",
+      "description": "Liquid hand wash by dettol kills 99.9% germs ",
+      "image": "",
+      "id": 6
+    }
+  ]
+}
